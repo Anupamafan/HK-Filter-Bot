@@ -25,7 +25,7 @@ from pyrogram import Client
 from info import *
 
 
-class TechVJXBot(Client):
+class TechHKXBot(Client):
 
     def __init__(self):
         super().__init__(
@@ -76,7 +76,7 @@ class TechVJXBot(Client):
                 yield message
                 current += 1
       
-TechVJBot = TechVJXBot()
+TechHKBot = TechHKXBot()
 
 multi_clients = {}
 work_loads = {}
