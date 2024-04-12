@@ -91,7 +91,7 @@ Join My <a href='https://t.me/h_k_Bots'>Update Channel</a> For More Update Regar
 <details><summary><b>Deploy To Heroku</b></summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/HK-Bots/HK-Filter-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Anupamafan/HK-Filter-Bot">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
 </a>
 </p>
